@@ -1,0 +1,2 @@
+# FiveEdge
+Fİvem Scripts
